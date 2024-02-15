@@ -11,9 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. Telecommunication Engineering, Universidad Politécnica de Madrid, 2020
+* M.S. in Telecommunication Engineering, Universidad Politécnica de Madrid, 2022
+* Ph.D in Telecommunication Technologies and Systems, Universidad Politécnica de Madrid, 2025 (expected)
+  * Thesis keywords: Causal inference, machine learning, bayesian statistics, generative models, survival analysis, knowledge graphs
+  * Advisor: Juan Parras
 
 Work experience
 ======

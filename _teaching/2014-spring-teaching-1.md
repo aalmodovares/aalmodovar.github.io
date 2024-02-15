@@ -1,20 +1,18 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching experience 2023/2024"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Graduate couses"
+permalink: /teaching/2023-2024
+venue: "University 1, Department of Signals, Systems and Radiocommunications"
+date: 2024-02-14
+location: "Madrid, Spain"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+Teacher assistant
 ======
-
-Heading 2
-======
-
-Heading 3
-======
+ * Probability and Random Signals (B.S in Data Engineering, 2nd course)
+   * Python laboratories, practical implications of probability and random signals
+ * Discrete Time Signals and Systems (B.S in Telecommunication Engineering, 3rd course)
+   * MATLAB programming, signal processing, and system analysis
+ * Advanced Signal and Data Analysis (B.S in Data Engineering, 3th course)
+   * Machine learning, generative models, Python programming
