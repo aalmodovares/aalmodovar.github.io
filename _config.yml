@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/aalmodovares"
+  github           : "aalmodovares"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/alejandro-almod%C3%B3var-935829138"
+  linkedin         : "alejandro-almod%C3%B3var-935829138"
   orcid            : "http://orcid.org/0009-0006-0900-4026"
   pinterest        :
   soundcloud       :
@@ -191,17 +191,17 @@ collections:
 
 # Defaults
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+#  # _posts
+#  - scope:
+#      path: ""
+#      type: posts
+#    values:
+#      layout: single
+#      author_profile: true
+#      read_time: true
+#      comments: true
+#      share: true
+#      related: true
   # _pages
   - scope:
       path: ""
@@ -228,22 +228,22 @@ defaults:
       share: true
       comments: true
   # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
+#  - scope:
+#      path: ""
+#      type: portfolio
+#    values:
+#      layout: single
+#      author_profile: true
+#      share: true
+#      comment: true
   # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+#  - scope:
+#      path: ""
+#      type: talks
+#    values:
+#      layout: talk
+#      author_profile: true
+#      share: true
 
 # Sass/SCSS
 sass:
