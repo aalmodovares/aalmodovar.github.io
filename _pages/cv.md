@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+[Check my CV here](http://aalmodovar.github.io/files/curriculum.pdf)
+
 {% include base_path %}
 
 Education
@@ -17,26 +19,62 @@ Education
   * Thesis keywords: Causal inference, machine learning, bayesian statistics, generative models, survival analysis, knowledge graphs
   * Advisor: Juan Parras
 
-Work experience
+WORK EXPERIENCE
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+## 05/2019 - 06/2020: Internship in INDRA-UPM chair
+* Madrid, Spain
+* Tasks:
+    * Study of drone market and implementation of a drone detection system using software-defined radio (SDR)
+    * Development of signal processing software for Clutter and Interference Suppression in Radar Systems
+* Skills:
+  * MATLAB
+  * Software-Defined Radio
+  * Radar Systems
+* Supervisor: Dr. José Tomás González Partida
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## 09/2021 - 02/2022 - Researcher in GAPS (Signal Processing Applications Group)
+* Universidad Politécnica de Madrid, Spain
+* Tasks:
+  * Study Causal Inference applied to machine learning 
+  * Development of a machine learning model for the prediction of the evolution of COVID-19 in Spain
+* Skills
+  * Python
+  * Machine Learning
+  * Causal Inference
+* Supervisors: [Dr. Juan Parras](https://jparras.github.io/) and [Dr. Santiago Zazo](https://scholar.google.com/citations?user=kNhqGMwAAAAJ&hl=en).
+* Projects:
+  * [Genomed4all](https://genomed4all.eu/) | European Comission (2020-2024) 
+  * MadridDataSpace4pandemics | Community of Madrid (01/2022-12/2022)
+
+## 03/2023 - present: PhD student grant (Programa Propio UPM)
+* Universidad Politécnica de Madrid, Spain
+* Tasks:
+  * Study of causal inference in healthcare:
+    * Federated causal learning
+    * Causal sufficiency assumption
+    * Generative models for causal inference
+    * Longitudinal data analysis
+* Supervisors: [Dr. Juan Parras](https://jparras.github.io/) and [Dr. Santiago Zazo](https://scholar.google.com/citations?user=kNhqGMwAAAAJ&hl=en).
+* Projects:
+  * [Genomed4all](https://genomed4all.eu/) | European Comission (2020-2024) 
+  * [RePo4EU](https://repo4.eu/) | European Comission (2023-2027)
+  * [Synthema](https://synthema.eu/) | European Comission (2023-2027)
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+[//]: # (Skills)
+
+[//]: # (======)
+
+[//]: # (* Skill 1)
+
+[//]: # (* Skill 2)
+
+[//]: # (  * Sub-skill 2.1)
+
+[//]: # (  * Sub-skill 2.2)
+
+[//]: # (  * Sub-skill 2.3)
+
+[//]: # (* Skill 3)
 
 Publications
 ======
@@ -44,11 +82,15 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+[//]: # (Talks)
+
+[//]: # (======)
+
+[//]: # (  <ul>{% for post in site.talks %})
+
+[//]: # (    {% include archive-single-talk-cv.html %})
+
+[//]: # (  {% endfor %}</ul>)
   
 Teaching
 ======
@@ -56,6 +98,8 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+[//]: # (Service and leadership)
+
+[//]: # (======)
+
+[//]: # (* Currently signed in to 43 different slack teams)
