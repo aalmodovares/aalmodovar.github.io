@@ -10,7 +10,7 @@ venue: 'Deep Generative Models for Health Wrokshop, NeurIPS2023'
 ---
 Federated Learning for Causal Inference using deep generative disentangled models (2023)
 
-[Download paper here](http://aalmodovar.github.io/files/nips23.pdf)
+[Download paper here](http://aalmodovares.github.io/files/nips23.pdf)
 
 Cite as:
 ```
